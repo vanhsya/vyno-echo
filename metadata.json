@@ -1,0 +1,10 @@
+{
+  "name": "VYNO COIN - Sentient Cosmos",
+  "description": "An immersive AI financial advisor experience for VYNO COIN, powered by Vanhsya. Featuring real-time voice interaction via Gemini, dynamic HUD, and sentient cosmos telemetry.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
