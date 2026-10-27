@@ -1,4 +1,18 @@
-⚡ VYNO QUANTUM
+<p align="center">
+  <img
+    src="assets/vyno-ecosystem.png"
+    alt="VYNO Asset — AI, blockchain, 100 AI robot vision, security and ecosystem roadmap"
+    width="100%"
+  />
+</p>
+
+<h1 align="center">VYNO ASSET</h1>
+
+<p align="center">
+  Intelligence in Motion.
+  <br />
+  AI × Blockchain × Automation × Digital Assets
+</p>⚡ VYNO QUANTUM
 
 Next-Generation Digital Assets · Intelligent Infrastructure · Quantum-Inspired Technology
 
