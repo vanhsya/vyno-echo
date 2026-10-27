@@ -1,0 +1,40 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fff0b5"/>
+      <stop offset=".45" stop-color="#e6a63f"/>
+      <stop offset=".72" stop-color="#fff1ca"/>
+      <stop offset="1" stop-color="#a65a22"/>
+    </linearGradient>
+    <linearGradient id="energy" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#32eaff"/>
+      <stop offset=".52" stop-color="#7556ff"/>
+      <stop offset="1" stop-color="#f33fff"/>
+    </linearGradient>
+    <radialGradient id="bg" cx=".35" cy=".25" r=".9">
+      <stop offset="0" stop-color="#202859"/>
+      <stop offset="1" stop-color="#060916"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="62" height="62" rx="13"
+        fill="url(#bg)" stroke="#39345d"/>
+  <circle cx="32" cy="32" r="25" fill="none"
+          stroke="#294c9b" stroke-width=".6"/>
+  <path d="M32 6.5 54.1 19.25V44.75L32 57.5 9.9 44.75V19.25Z"
+        fill="#0a1026" stroke="url(#gold)" stroke-width="2"/>
+  <path d="M17 23.5H27.2L32 29.3 36.8 23.5H47L35.5 36.1V47.5H28.5V36.1Z"
+        fill="url(#energy)" stroke="url(#gold)"
+        stroke-width="1.2" stroke-linejoin="round"/>
+  <path d="M20.5 25.5 29 35V44M43.5 25.5 35 35V44"
+        fill="none" stroke="#d8faff" stroke-width=".7"/>
+  <g fill="#11162d" stroke="url(#gold)" stroke-width="1.3">
+    <circle cx="32" cy="8.5" r="3"/>
+    <circle cx="51.4" cy="20" r="3"/>
+    <circle cx="51.4" cy="44" r="3"/>
+    <circle cx="32" cy="55.5" r="3"/>
+    <circle cx="12.6" cy="44" r="3"/>
+    <circle cx="12.6" cy="20" r="3"/>
+  </g>
+  <circle cx="32" cy="32" r="2" fill="#fff0b0"/>
+</svg>
